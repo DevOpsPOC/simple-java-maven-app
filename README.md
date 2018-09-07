@@ -14,3 +14,7 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
+
+Me and the team had a meeting yesterday regarding the transition that we will be doing.
+
+Over the next few weeks, we would like to work with you(or with the new member sof the team) on training or any necessary transition duties (i.e. DMC and On-call)
